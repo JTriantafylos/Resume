@@ -1,0 +1,9 @@
+- Provides technical support in the development, integration, implementation or maintenance of IT infrastructure components such as Local Area Network, Municipal Area Network and Wide Area Network (LAN/MAN/WAN), workstations, servers and mainframe operations; installs, integrates, configures, monitors and tests components in the computing environment.
+- Creates and manages network accounts for desktop computing services such as Computer, Outlook and Active Directory accounts.
+- Updates and maintains hardware and software inventory; supports backup and recovery processes and procedures; assesses impact of hardware and software changes on the computing environment; supports IT asset acquisition and life cycle management.
+- Provides technical support to IT infrastructure clients experiencing difficulties such as those with workstation hardware/software, mail routing, Internet work routing, LAN/MAN/WAN services and cabling.
+- Investigates, determines and documents problems experienced and action taken to address client difficulties and refers problems to the next level of support as required.
+- Produces basic system documentation, reports, and correspondence.
+- Provides technical advice and on-the-job technical training to clients and colleagues.
+- Maintains knowledge of trends and developments in one or more areas of infrastructure components such as hardware, software and service management processes.
+- Participates as a member on projects as required.
