@@ -18,10 +18,12 @@
 % CONFIGURATIONS
 %-------------------------------------------------------------------------------
 % A4 paper size by default, use 'letterpaper' for US letter
-\documentclass[12pt, letterpaper]{awesome-cv}
+\documentclass[11pt, letterpaper]{awesome-cv}
+
+\usepackage{multicol}
 
 % Configure page margins with geometry
-\geometry{left=2cm, top=1.2cm, right=2cm, bottom=1.8cm, footskip=.5cm}
+\geometry{left=1.5cm, top=1.5cm, right=1.5cm, bottom=1.5cm, footskip=.5cm}
 
 % Specify the location of the included fonts
 \fontdir[fonts/]
@@ -31,7 +33,7 @@
 %                 awesome-nephritis, awesome-concrete, awesome-darknight
 \colorlet{awesome}{awesome-red}
 % Uncomment if you would like to specify your own color
-% \definecolor{awesome}{HTML}{CA63A8}
+% \definecolor{awesome}{HTML}{6D9EC7}
 
 % Colors for text
 % Uncomment if you would like to specify your own color
@@ -62,7 +64,7 @@
 \email{jtriantafylos@gmail.com}
 %\homepage{www.posquit0.com}
 \github{JTriantafylos}
-%\linkedin{posquit0}
+\linkedin{JTriantafylos}
 % \gitlab{gitlab-id}
 % \stackoverflow{SO-id}{SO-name}
 % \twitter{@twit}
@@ -99,13 +101,12 @@
 \input{resume/summary.tex}
 \input{resume/experience.tex}
 \input{resume/skills.tex}
-\input{resume/honors.tex}
+%\input{resume/honors.tex}
 %\input{resume/presentation.tex}
 %\input{resume/writing.tex}
 %\input{resume/committees.tex}
 \input{resume/education.tex}
 \input{resume/extracurricular.tex}
-
 
 %-------------------------------------------------------------------------------
 \end{document}
